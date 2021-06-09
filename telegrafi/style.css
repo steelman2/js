@@ -1,0 +1,202 @@
+.nvb-bg {
+	background-color: #2f476d; 
+}
+
+.row {
+	margin-left: -10px;
+    margin-right: -10px;
+}
+
+.navbar-nav .nav-link {
+	text-align: right;
+	padding-right: 10px;
+	color: white;
+}
+
+.navbar-toggler {
+	text-decoration: none;
+}
+
+.aktuale {
+	border: 1px solid #eaeaea;
+}
+
+.djathtas {
+
+}
+
+#copyright {
+	background-color: rgba(0, 0, 0, 0.05);
+}
+
+.cov {
+	margin-top: 15px;
+	margin-bottom: 15px;
+	flex-wrap: wrap;
+	text-align: center;
+}
+
+.stats {
+	background-color: #dcdcdc;
+	border: 1px solid #a7a7a7;
+	display: block;
+    padding: 2px 0;
+
+}
+
+.mid {
+	text-align: center;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.btn.focus {
+	outline: 0;
+	box-shadow: none;
+}
+
+.sponsor {
+    line-height: 40px;
+    height: 90px;
+    color: #fff;
+    margin-bottom: 5px;
+}
+
+footer {
+	background-color: #2f476d;
+	color: #fff;
+	margin-top: 200px;
+}
+
+.teksti {
+	padding-top: 5px;
+	color: #337ab7;
+}
+ 
+a:hover {
+	text-decoration: none;
+	color: #eb008b;
+}
+
+.focustekst{
+	color: #337ab7;
+}
+
+.focustekst:hover {
+    color: #eb008b;
+}
+
+.teksti:hover {
+	color: #eb008b;
+}
+
+.fokuslajmi {
+	border: 1px solid #eaeaea;
+    background-color: #fff;
+    text-decoration: none;
+    border-bottom: none;
+    padding: 12px 2px;
+    display: block;
+    padding-bottom: 10px;
+}
+
+.big {
+	border-right: 1px solid #eaeaea;
+}
+
+.stats {
+
+}
+
+.titulli {
+	margin-top: 20px;
+	color: #23238E;
+	font-size: 18px;
+	font-family: Nunito Sans,sans-serif;
+}
+
+.focusimg {
+	border-radius: 4px;
+    height: auto;
+    width: 100%;
+}
+
+img {
+	width: 100%;
+	border-radius: 4px;
+	vertical-align: middle;
+	height: auto;
+}
+
+.lista-djatht ul {
+	list-style-type: none;
+	padding: 0;
+	display: inline-block;
+}
+
+.lista-djatht ul li {
+	border: 1px solid #eaeaea;
+	padding: 10px 15px;
+}
+
+.lista-djatht ul li a {
+	text-decoration: none;
+	color: #337ab7;
+	line-height: 22px;
+	font-weight: 400;
+	font-size: 15px;
+	flex: 1;
+
+}
+
+.lajmet-posht {
+	float: bottom;
+	margin-top: 20px;
+	border-top: 1px solid #eaeaea;;
+}
+
+.koha {
+	color: red;
+}
+
+#newnews {
+	padding-top: 10px;
+	color: #337ab7;
+	font-size: 15px;
+}
+
+.lajme {
+	color: red;
+}
+
+.lista-djatht ul li a strong {
+	line-height: 22px;
+	font-weight: 400;
+	font-size: 15px;
+	flex: 1;
+}
+
+.fundit {
+	color: #23238E;
+	font-size: 18px;
+	font-family: Nunito Sans,sans-serif;
+}
+
+body {
+	background-color: #f5f6f7;
+	margin: 0;
+}
